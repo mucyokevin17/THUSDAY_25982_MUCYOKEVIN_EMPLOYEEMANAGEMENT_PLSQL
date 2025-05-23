@@ -116,37 +116,38 @@ START BY CREATING TABLES :
 this is the out put of the created table :
 
 * Inserted 10+ realistic rows per table
+  
 ![image](https://github.com/user-attachments/assets/269c67c4-3afe-4a15-8445-c2cdfb60a53a)
 
 
 > 📸
 > Insert Data – employee
->
-> ![image](https://github.com/user-attachments/assets/1104e382-88a7-4164-8951-cdecb9edd74f)
+
+![image](https://github.com/user-attachments/assets/1104e382-88a7-4164-8951-cdecb9edd74f)
 >
 > OUT PUT:
->
-> ![image](https://github.com/user-attachments/assets/0d39e15f-5a09-4c44-b939-2529a0b1d55f)
+
+![image](https://github.com/user-attachments/assets/0d39e15f-5a09-4c44-b939-2529a0b1d55f)
 >
 > Insert Data – attendance:
 >
-> ![image](https://github.com/user-attachments/assets/cfe46f16-0e12-4f4d-a964-fba88fffcebe)
+![image](https://github.com/user-attachments/assets/cfe46f16-0e12-4f4d-a964-fba88fffcebe)
 
 OUT PUT:
 
-   ![image](https://github.com/user-attachments/assets/79364f31-4aca-438e-8792-8b26a4162e0d)
+![image](https://github.com/user-attachments/assets/79364f31-4aca-438e-8792-8b26a4162e0d)
 
 Insert Data – payroll:
 
-  ![image](https://github.com/user-attachments/assets/5c2eab31-c377-4a84-b98c-2304f0509ed0)
+![image](https://github.com/user-attachments/assets/5c2eab31-c377-4a84-b98c-2304f0509ed0)
 
  OUT PUT :
  
-  ![image](https://github.com/user-attachments/assets/ac79a1e2-d81a-42b6-ad74-44ebd1f241d2)
+![image](https://github.com/user-attachments/assets/ac79a1e2-d81a-42b6-ad74-44ebd1f241d2)
 
  Insert Data – payslip and ITS OUTPUT :
 
-  ![image](https://github.com/user-attachments/assets/63dde9bb-ccb3-4fa0-9190-87b78750be99)
+![image](https://github.com/user-attachments/assets/63dde9bb-ccb3-4fa0-9190-87b78750be99)
 
 
 ### ✅ Phase 6: PL/SQL Programming
@@ -164,23 +165,23 @@ Procedure – Get Employee Info by ID
 
 * Procedure test output →
 
-* ![image](https://github.com/user-attachments/assets/9cc6c31d-9645-4f4c-917d-dbb1193be3e7)
+![image](https://github.com/user-attachments/assets/9cc6c31d-9645-4f4c-917d-dbb1193be3e7)
 
 * Function – Calculate Net Salary:
 
-* ![image](https://github.com/user-attachments/assets/322f6c47-ed57-4b78-a9f7-232d9d9a3a9e)
-* ![image](https://github.com/user-attachments/assets/11441fb7-e607-4567-b420-cb092e023658)
+![image](https://github.com/user-attachments/assets/322f6c47-ed57-4b78-a9f7-232d9d9a3a9e)
+![image](https://github.com/user-attachments/assets/11441fb7-e607-4567-b420-cb092e023658)
 
 
 * Net salary result →
-
-* ![image](https://github.com/user-attachments/assets/55255e44-311a-4426-b9eb-ecd5c895bb26)
-* ![image](https://github.com/user-attachments/assets/71a9d025-a14e-47b7-8afc-3fd96f61685e)
+  
+![image](https://github.com/user-attachments/assets/55255e44-311a-4426-b9eb-ecd5c895bb26)
+![image](https://github.com/user-attachments/assets/71a9d025-a14e-47b7-8afc-3fd96f61685e)
 
 * Cursor – List Net Salary for All Payrolls:
-
-* ![image](https://github.com/user-attachments/assets/25b4ec5a-03bf-43f0-8f6c-5d9e08633ece)
-* ![image](https://github.com/user-attachments/assets/7c07df14-c932-415e-b18e-9396a821f715)
+  
+![image](https://github.com/user-attachments/assets/25b4ec5a-03bf-43f0-8f6c-5d9e08633ece)
+![image](https://github.com/user-attachments/assets/7c07df14-c932-415e-b18e-9396a821f715)
 
 
 Package – Group Function & Procedure
@@ -201,16 +202,16 @@ Test the package:
 * `audit_log` table: Tracks every attempt
 
 > 📸 Add:
->
-> ![image](https://github.com/user-attachments/assets/86782c12-fc24-4b71-ac39-ab4df1dbefd0)
-> ![image](https://github.com/user-attachments/assets/b94fe894-2eb5-455f-ad96-62dfe339da83)
+
+![image](https://github.com/user-attachments/assets/86782c12-fc24-4b71-ac39-ab4df1dbefd0)
+![image](https://github.com/user-attachments/assets/b94fe894-2eb5-455f-ad96-62dfe339da83)
 
 
 
 * DML blocked by trigger → ``
 * Query of `audit_log` →
 *
-* ![image](https://github.com/user-attachments/assets/493540d5-14a9-426f-b897-191973ecc01c)
+![image](https://github.com/user-attachments/assets/493540d5-14a9-426f-b897-191973ecc01c)
 
 `
 
