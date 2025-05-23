@@ -1,8 +1,11 @@
+NAME: MUCYO kevin
+ID: 25982
+
 # 🚀 Employee Management System (EMS) - PL/SQL Capstone Project
 
 <p align="center">
   <strong>Oracle Database Backend System for Payroll & HR Management</strong><br/>
-  <em>Final GitHub Documentation | PDB: mon_231245_Mucyo_ems_db</em>
+  <em>Final GitHub Documentation | PDB: THUSDAY_25982_MUCYOKEVIN_EMPLOYEEMANAGEMENT</em>
 </p>
 
 <p align="center">
