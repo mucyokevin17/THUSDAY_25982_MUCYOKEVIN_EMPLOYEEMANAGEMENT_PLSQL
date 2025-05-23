@@ -115,21 +115,21 @@ START BY CREATING TABLES :
 
 this is the out put of the created table :
 
-* Inserted 10+ realistic rows per table
   
 ![image](https://github.com/user-attachments/assets/269c67c4-3afe-4a15-8445-c2cdfb60a53a)
 
-
+* Inserted 10+ realistic rows per table
+  
 > 📸
-> Insert Data – employee
+* Insert Data – employee
 
 ![image](https://github.com/user-attachments/assets/1104e382-88a7-4164-8951-cdecb9edd74f)
 >
-> OUT PUT:
+* OUT PUT:
 
 ![image](https://github.com/user-attachments/assets/0d39e15f-5a09-4c44-b939-2529a0b1d55f)
 >
-> Insert Data – attendance:
+* Insert Data – attendance:
 >
 ![image](https://github.com/user-attachments/assets/cfe46f16-0e12-4f4d-a964-fba88fffcebe)
 
@@ -141,11 +141,11 @@ Insert Data – payroll:
 
 ![image](https://github.com/user-attachments/assets/5c2eab31-c377-4a84-b98c-2304f0509ed0)
 
- OUT PUT :
+ * OUT PUT :
  
 ![image](https://github.com/user-attachments/assets/ac79a1e2-d81a-42b6-ad74-44ebd1f241d2)
 
- Insert Data – payslip and ITS OUTPUT :
+ * Insert Data – payslip and ITS OUTPUT :
 
 ![image](https://github.com/user-attachments/assets/63dde9bb-ccb3-4fa0-9190-87b78750be99)
 
@@ -184,13 +184,13 @@ Procedure – Get Employee Info by ID
 ![image](https://github.com/user-attachments/assets/7c07df14-c932-415e-b18e-9396a821f715)
 
 
-Package – Group Function & Procedure
+* Package – Group Function & Procedure
 
 ![image](https://github.com/user-attachments/assets/c1016325-26e6-4555-9f75-4dce405f579c)
 ![image](https://github.com/user-attachments/assets/96af6ffe-2b6c-4908-ab7c-5b383fb791f1)
 ![image](https://github.com/user-attachments/assets/adab56e2-bdc1-41de-9431-0d11abe362da)
 
-Test the package:
+* Test the package:
 
 ![image](https://github.com/user-attachments/assets/7f5923b3-abe8-46e3-a311-2ea869017e1f)
 ![image](https://github.com/user-attachments/assets/3c82ae28-6aca-46f3-aead-fc6cebdcc13f)
@@ -210,10 +210,9 @@ Test the package:
 
 * DML blocked by trigger → ``
 * Query of `audit_log` →
-*
+
 ![image](https://github.com/user-attachments/assets/493540d5-14a9-426f-b897-191973ecc01c)
 
-`
 
 ---
 
