@@ -155,8 +155,42 @@ Insert Data – payroll:
 
 > 📸 Add:
 
-* Procedure test output → `Screenshots/Procedure_Output.png`
-* Net salary result → `Screenshots/NetSalary_Output.png`
+Procedure – Get Employee Info by ID
+
+![image](https://github.com/user-attachments/assets/c86ad924-5d56-452c-8ff4-a384cd9bc30c)
+
+* Procedure test output →
+
+* ![image](https://github.com/user-attachments/assets/9cc6c31d-9645-4f4c-917d-dbb1193be3e7)
+
+* Function – Calculate Net Salary:
+
+* ![image](https://github.com/user-attachments/assets/322f6c47-ed57-4b78-a9f7-232d9d9a3a9e)
+* ![image](https://github.com/user-attachments/assets/11441fb7-e607-4567-b420-cb092e023658)
+
+
+* Net salary result →
+
+* ![image](https://github.com/user-attachments/assets/55255e44-311a-4426-b9eb-ecd5c895bb26)
+* ![image](https://github.com/user-attachments/assets/71a9d025-a14e-47b7-8afc-3fd96f61685e)
+
+* Cursor – List Net Salary for All Payrolls:
+
+* ![image](https://github.com/user-attachments/assets/25b4ec5a-03bf-43f0-8f6c-5d9e08633ece)
+* ![image](https://github.com/user-attachments/assets/7c07df14-c932-415e-b18e-9396a821f715)
+
+
+Package – Group Function & Procedure
+
+![image](https://github.com/user-attachments/assets/c1016325-26e6-4555-9f75-4dce405f579c)
+![image](https://github.com/user-attachments/assets/96af6ffe-2b6c-4908-ab7c-5b383fb791f1)
+![image](https://github.com/user-attachments/assets/adab56e2-bdc1-41de-9431-0d11abe362da)
+
+Test the package:
+
+![image](https://github.com/user-attachments/assets/7f5923b3-abe8-46e3-a311-2ea869017e1f)
+![image](https://github.com/user-attachments/assets/3c82ae28-6aca-46f3-aead-fc6cebdcc13f)
+
 
 ### ✅ Phase 7: Security & Auditing
 
