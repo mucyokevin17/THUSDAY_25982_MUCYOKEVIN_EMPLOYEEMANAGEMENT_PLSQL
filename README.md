@@ -104,10 +104,47 @@ Testing perfomance of my database :
 > 📸 **Optional Screenshot**: `Screenshots/schema_creation.png`
 
 ### ✅ Phase 5: Data Insertion
+START BY CREATING TABLES :
+
+![image](https://github.com/user-attachments/assets/3b70cfc6-e546-4329-bafb-bc071730ed55)
+![image](https://github.com/user-attachments/assets/c0697205-8994-4165-9c01-5a1aa45e84ce)
+![image](https://github.com/user-attachments/assets/844ac58a-d4ac-470f-9c08-67157945d3a2)
+
+this is the out put of the created table :
 
 * Inserted 10+ realistic rows per table
+* ![image](https://github.com/user-attachments/assets/269c67c4-3afe-4a15-8445-c2cdfb60a53a)
 
-> 📸 **Add this screenshot**: `Screenshots/Data_Insert_Success.png`
+
+> 📸
+> Insert Data – employee
+>
+> ![image](https://github.com/user-attachments/assets/1104e382-88a7-4164-8951-cdecb9edd74f)
+>
+> OUT PUT:
+>
+> ![image](https://github.com/user-attachments/assets/0d39e15f-5a09-4c44-b939-2529a0b1d55f)
+>
+> Insert Data – attendance:
+>
+> ![image](https://github.com/user-attachments/assets/cfe46f16-0e12-4f4d-a964-fba88fffcebe)
+
+OUT PUT:
+
+![image](https://github.com/user-attachments/assets/79364f31-4aca-438e-8792-8b26a4162e0d)
+
+Insert Data – payroll:
+
+![image](https://github.com/user-attachments/assets/5c2eab31-c377-4a84-b98c-2304f0509ed0)
+
+ OUT PUT :
+ 
+ ![image](https://github.com/user-attachments/assets/ac79a1e2-d81a-42b6-ad74-44ebd1f241d2)
+
+ Insert Data – payslip and ITS OUTPUT :
+
+ ![image](https://github.com/user-attachments/assets/63dde9bb-ccb3-4fa0-9190-87b78750be99)
+
 
 ### ✅ Phase 6: PL/SQL Programming
 
